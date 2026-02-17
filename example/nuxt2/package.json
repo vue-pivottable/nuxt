@@ -1,0 +1,16 @@
+{
+  "name": "nuxt2-example",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.18.1",
+    "vue-pivottable": "^0.4.69"
+  },
+  "devDependencies": {
+    "@vue-pivottable/nuxt": "file:../.."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "@vue-pivottable/nuxt",
+  "version": "0.1.0",
+  "description": "Nuxt module for vue-pivottable (Nuxt 2/3 compatible)",
+  "author": "Seungwoo321",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/types.d.ts",
+      "import": "./dist/module.mjs",
+      "require": "./dist/module.cjs"
+    },
+    "./nuxt2": {
+      "import": "./dist/nuxt2.mjs",
+      "require": "./dist/nuxt2.cjs"
+    },
+    "./nuxt3": {
+      "types": "./dist/types.d.ts",
+      "import": "./dist/nuxt3.mjs",
+      "require": "./dist/nuxt3.cjs"
+    }
+  },
+  "main": "./dist/module.cjs",
+  "module": "./dist/module.mjs",
+  "types": "./dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "dev": "unbuild --stub",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "nuxt": "^2.0.0 || ^3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "nuxt": {
+      "optional": false
+    }
+  },
+  "devDependencies": {
+    "@nuxt/kit": "^3.9.0",
+    "@nuxt/schema": "^3.9.0",
+    "release-it": "^17.0.0",
+    "typescript": "^5.0.0",
+    "unbuild": "^2.0.0"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxt2",
+    "nuxt3",
+    "nuxt-module",
+    "vue-pivottable",
+    "pivottable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-pivottable/nuxt.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
