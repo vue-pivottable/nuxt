@@ -26,3 +26,7 @@ examples/**/.nuxt/
 examples/**/.output/
 examples/**/dist/
 examples/**/node_modules/
+
+# Lockfiles (examples use latest dependencies)
+pnpm-lock.yaml
+package-lock.json
