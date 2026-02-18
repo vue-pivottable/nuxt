@@ -18,8 +18,11 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Nuxt example outputs
-example/nuxt2/.nuxt/
-example/nuxt2/.output/
-example/nuxt3/.nuxt/
-example/nuxt3/.output/
+# Playwright MCP
+.playwright-mcp/
+
+# Example outputs
+examples/**/.nuxt/
+examples/**/.output/
+examples/**/dist/
+examples/**/node_modules/
