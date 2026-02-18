@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.2-beta.1](https://github.com/vue-pivottable/nuxt/compare/v0.2.2-beta.0...v0.2.2-beta.1) (2026-02-18)
+
+### Documentation
+
+* add demo links and update installation guide ([9d91166](https://github.com/vue-pivottable/nuxt/commit/9d911660871dd21a0e4124652f6aac0442583296))
+
 ## [0.2.2-beta.0](https://github.com/vue-pivottable/nuxt/compare/v0.2.1...v0.2.2-beta.0) (2026-02-18)
 
 ## [0.2.1](https://github.com/vue-pivottable/nuxt/compare/v0.2.1-beta.0...v0.2.1) (2026-02-18)
