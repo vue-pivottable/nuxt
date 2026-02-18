@@ -12,6 +12,6 @@
     "vue-pivottable": "^0.4.69"
   },
   "devDependencies": {
-    "@vue-pivottable/nuxt": "^0.1.0"
+    "@vue-pivottable/nuxt": "^0.2.0"
   }
 }
