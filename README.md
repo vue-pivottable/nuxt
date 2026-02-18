@@ -2,6 +2,17 @@
 
 Nuxt module for vue-pivottable. Supports both Nuxt 2 and Nuxt 3 with SSR-safe component registration.
 
+## Version Compatibility
+
+Nuxt is built on Vue, so each Nuxt version corresponds to a specific Vue version:
+
+| Nuxt Version | Vue Version | vue-pivottable Version | Module Path |
+|--------------|-------------|------------------------|-------------|
+| Nuxt 2.x | Vue 2 | `^0.4.69` | `@vue-pivottable/nuxt/nuxt2` |
+| Nuxt 3.x | Vue 3 | `^1.0.0` | `@vue-pivottable/nuxt` |
+
+> **Note:** Nuxt 2 uses Vue 2 internally, and Nuxt 3 uses Vue 3. Make sure to install the correct version of `vue-pivottable` that matches your Nuxt/Vue version.
+
 ## Screenshots
 
 ### Nuxt 3 (Vue 3)
