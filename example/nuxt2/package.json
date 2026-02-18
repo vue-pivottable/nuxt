@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "generate": "nuxt generate",
     "start": "nuxt start"
   },
   "dependencies": {
@@ -11,6 +12,6 @@
     "vue-pivottable": "^0.4.69"
   },
   "devDependencies": {
-    "@vue-pivottable/nuxt": "file:../.."
+    "@vue-pivottable/nuxt": "^0.1.0"
   }
 }
