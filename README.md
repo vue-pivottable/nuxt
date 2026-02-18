@@ -18,18 +18,18 @@ Nuxt is built on Vue, so each Nuxt version corresponds to a specific Vue version
 ### Nuxt 3 (Vue 3)
 
 **VuePivottable** - Direct pivot table rendering
-![Nuxt 3 - VuePivottable](example/nuxt3-pretty-table.png)
+![Nuxt 3 - VuePivottable](examples/nuxt3-pivottable.png)
 
 **VuePivottableUi** - Interactive pivot table with drag-and-drop UI
-![Nuxt 3 - VuePivottableUi](example/nuxt3-pretty-ui.png)
+![Nuxt 3 - VuePivottableUi](examples/nuxt3-pivottableui.png)
 
 ### Nuxt 2 (Vue 2)
 
 **VuePivottable** - Direct pivot table rendering (with Totals)
-![Nuxt 2 - VuePivottable](example/nuxt2-pretty-table.png)
+![Nuxt 2 - VuePivottable](examples/nuxt2-pivottable.png)
 
 **VuePivottableUi** - Interactive pivot table with drag-and-drop UI
-![Nuxt 2 - VuePivottableUi](example/nuxt2-pretty-ui.png)
+![Nuxt 2 - VuePivottableUi](examples/nuxt2-pivottableui.png)
 
 ## Installation
 
@@ -145,23 +145,23 @@ This module automatically handles SSR by loading components only on the client s
 
 ## Examples
 
-See the [example](./example) directory for complete working examples:
+See the [examples](./examples) directory for complete working examples:
 
-- `example/nuxt3` - Nuxt 3 example
-- `example/nuxt2` - Nuxt 2 example
+- `examples/nuxt3` - Nuxt 3 example
+- `examples/nuxt2` - Nuxt 2 example
 
 To run the examples:
 
 ```bash
 # Nuxt 3
-cd example/nuxt3
-npm install
-npm run dev
+cd examples/nuxt3
+pnpm install
+pnpm run dev
 
 # Nuxt 2
-cd example/nuxt2
-npm install
-npm run dev
+cd examples/nuxt2
+pnpm install
+pnpm run dev
 ```
 
 ## License
