@@ -1,0 +1,2 @@
+name = "nuxt-example-vue3"
+pages_build_output_dir = ".output/public"
