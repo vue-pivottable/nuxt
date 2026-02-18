@@ -1,4 +1,6 @@
 export default {
+  target: 'static',
+
   modules: ['@vue-pivottable/nuxt/nuxt2'],
 
   head: {
