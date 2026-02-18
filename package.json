@@ -1,6 +1,6 @@
 {
   "name": "@vue-pivottable/nuxt",
-  "version": "0.2.1",
+  "version": "0.2.2-beta.0",
   "description": "Nuxt module for vue-pivottable (Nuxt 2/3 compatible)",
   "author": "Seungwoo321",
   "license": "MIT",
