@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "nuxt": "^2.18.1",
-    "vue-pivottable": "^0.4.69"
+    "vue-pivottable": "^0.4.71"
   },
   "devDependencies": {
-    "@vue-pivottable/nuxt": "^0.2.0"
+    "@vue-pivottable/nuxt": "^0.2.2-beta.0"
   }
 }
