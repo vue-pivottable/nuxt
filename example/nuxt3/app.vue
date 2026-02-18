@@ -76,7 +76,7 @@ const data = [
 
 body {
   margin: 0;
-  background: #f5f7fa;
+  background: #fff;
 }
 
 .container {
