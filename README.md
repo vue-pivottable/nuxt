@@ -13,6 +13,11 @@ Nuxt is built on Vue, so each Nuxt version corresponds to a specific Vue version
 
 > **Note:** Nuxt 2 uses Vue 2 internally, and Nuxt 3 uses Vue 3. Make sure to install the correct version of `vue-pivottable` that matches your Nuxt/Vue version.
 
+## Demo
+
+- [Nuxt 3 Demo](https://nuxt3-pivottable.pages.dev/)
+- [Nuxt 2 Demo](https://nuxt2-pivottable.pages.dev/)
+
 ## Screenshots
 
 ### Nuxt 3 (Vue 3)
@@ -34,13 +39,13 @@ Nuxt is built on Vue, so each Nuxt version corresponds to a specific Vue version
 ## Installation
 
 ```bash
-npm install @vue-pivottable/nuxt
+pnpm add @vue-pivottable/nuxt
 
 # For Nuxt 3 (Vue 3)
-npm install vue-pivottable@^1.0.0
+pnpm add vue-pivottable@^1.0.0
 
 # For Nuxt 2 (Vue 2)
-npm install vue-pivottable@^0.4.69
+pnpm add vue-pivottable@^0.4.69
 ```
 
 ## Usage
