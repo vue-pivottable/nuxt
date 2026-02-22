@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.2.3-beta.1](https://github.com/vue-pivottable/nuxt/compare/v0.2.3-beta.0...v0.2.3-beta.1) (2026-02-22)
+
 ## [0.2.3-beta.0](https://github.com/vue-pivottable/nuxt/compare/v0.2.2...v0.2.3-beta.0) (2026-02-22)
 
 ## [0.2.2](https://github.com/vue-pivottable/nuxt/compare/v0.2.2-beta.3...v0.2.2) (2026-02-19)
