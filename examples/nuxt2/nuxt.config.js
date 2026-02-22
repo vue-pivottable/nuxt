@@ -1,7 +1,11 @@
 export default {
   target: 'static',
 
-  modules: ['@vue-pivottable/nuxt/nuxt2'],
+  modules: [
+    process.env.NODE_ENV === 'development'
+      ? '../../src/nuxt2/module'
+      : '@vue-pivottable/nuxt/nuxt2'
+  ],
 
   head: {
     title: 'Nuxt 2 + vue-pivottable Example',
