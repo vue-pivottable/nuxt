@@ -15,8 +15,8 @@ Nuxt is built on Vue, so each Nuxt version corresponds to a specific Vue version
 
 ## Demo
 
-- [Nuxt 3 Demo](https://nuxt3-pivottable.pages.dev/)
-- [Nuxt 2 Demo](https://nuxt2-pivottable.pages.dev/)
+- [Nuxt 3 Demo](https://nuxt-vue3.pages.dev/)
+- [Nuxt 2 Demo](https://nuxt-vue2.pages.dev/)
 
 ## Screenshots
 
